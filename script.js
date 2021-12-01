@@ -43,12 +43,9 @@ for (let item in futurePet) {
 //helper function that takes array contents and converts to string, '\n' puts each item in a separate new line 
 function formatPet(futurePet) {
    
-    const formatted = myFuturePet.join('\n');
-    console.log(formatted)
+  
   }
   
-  console.log(formatPet(futurePet));
-  console.log(myFuturePet);
   formatPet(futurePet);
   
 
